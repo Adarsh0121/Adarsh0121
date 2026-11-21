@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Adarsh 👋
 
-<!--
-**Adarsh0121/Adarsh0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer building real projects with HTML, CSS, JavaScript and React. I learn by building, and I share my work here.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Productivity Dashboard](https://github.com/Adarsh0121/Productivity-Dashboard) | Todo manager, daily planner, Pomodoro timer, weather widget and multiple themes | HTML, CSS, JavaScript |
+| [Kanban Board](https://github.com/Adarsh0121/kanban-board) | Drag and drop task board, tasks saved in localStorage | HTML, CSS, JavaScript |
+| [Notes App]() | Add and delete sticky notes with a clean responsive layout | React, Tailwind CSS |
+
+## 📚 Currently Learning
+- Node.js and Express (backend basics)
+- Databases (MongoDB)
+- Building and deploying full projects
+
+## 📫 Connect with me
+- LinkedIn:www.linkedin.com/in/adarsh-vats
+
+⭐ Thanks for visiting!
