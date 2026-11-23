@@ -4,8 +4,8 @@ Frontend Developer building real projects with HTML, CSS, JavaScript and React. 
 
 ## 🛠️ Skills
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code
+- **Frameworks/Libraries:** React, Tailwind CSS, Axios
+- **Tools:** Git, GitHub, VS Code, Vercel
 
 ## 🚀 Projects
 
@@ -14,13 +14,4 @@ Frontend Developer building real projects with HTML, CSS, JavaScript and React. 
 | [Productivity Dashboard](https://adarsh0121.github.io/Productivity-Dashboard/) | Todo manager, daily planner, Pomodoro timer, weather widget and multiple themes | HTML, CSS, JavaScript |
 | [Kanban Board](https://adarsh0121.github.io/kanban-board/) | Drag and drop task board, tasks saved in localStorage | HTML, CSS, JavaScript |
 | [Notes App](https://react-notes-app-cyan-mu.vercel.app) | Add and delete sticky notes with a clean responsive layout | React, Tailwind CSS |
-
-## 📚 Currently Learning
-- Node.js and Express (backend basics)
-- Databases (MongoDB)
-- Building and deploying full projects
-
-## 📫 Connect with me
-- LinkedIn:www.linkedin.com/in/adarsh-vats
-
-⭐ Thanks for visiting!
+| [Picsum Gallery](https://picsum-gallery-one.vercel.app) | Basic Image gallery fetching photos from the Picsum API with Next/Previous pagination | React, Tailwind CSS, Axios |
