@@ -15,3 +15,4 @@ Frontend Developer building real projects with HTML, CSS, JavaScript and React. 
 | [Kanban Board](https://adarsh0121.github.io/kanban-board/) | Drag and drop task board, tasks saved in localStorage | HTML, CSS, JavaScript |
 | [Notes App](https://react-notes-app-cyan-mu.vercel.app) | Add and delete sticky notes with a clean responsive layout | React, Tailwind CSS |
 | [Picsum Gallery](https://picsum-gallery-one.vercel.app) | Basic Image gallery fetching photos from the Picsum API with Next/Previous pagination | React, Tailwind CSS, Axios |
+| [Media Search App](https://media-search-app-eight.vercel.app) | Search and save photos, videos and GIFs from 3 APIs with a Redux collection | React, Redux Toolkit, Tailwind CSS |
